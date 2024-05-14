@@ -229,8 +229,8 @@ p{
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
-        margin-bottom: 40px;
         margin-top: 50px;
+        
         
     }
     .section-1{
@@ -291,7 +291,7 @@ p{
         font-weight: 500;
         line-height: 1.4;
         text-align: center;
-        padding: 30px;
+        padding: 20px 40px;
     }
     
 }
